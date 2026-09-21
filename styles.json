@@ -1,0 +1,38 @@
+{
+  "genres": {
+    "gothic-horror": "Gothic horror: oppressive atmosphere, decay, creeping dread, and beauty tangled with menace.",
+    "noir": "Noir: terse, cynical narration, moral ambiguity, rain-slick streets, and dialogue with a hard edge.",
+    "high-fantasy": "High fantasy: sweeping, mythic tone with rich worldbuilding detail and a sense of ancient stakes.",
+    "cyberpunk": "Cyberpunk: neon-lit, gritty, technology-saturated prose with a bleak, streetwise voice.",
+    "thriller": "Thriller: propulsive pacing, short punchy sentences, constant pressure, and clock-ticking tension.",
+    "historical": "Historical: period-accurate diction, customs, and sensory detail that make the era feel lived in."
+  },
+  "fightStyles": {
+    "brawl": "Bar-room brawl: messy, improvised, chairs and bottles, no technique, all momentum and stubbornness.",
+    "swordplay": "Swordplay: precise footwork, binds and parries, the ring of steel, reading the opponent's blade.",
+    "martial-arts": "Martial arts: fluid, disciplined technique with named strikes and throws, balance and timing.",
+    "dirty": "Dirty fighting: eye gouges, low blows, thrown sand, anything to win. Fast, ugly, and unfair.",
+    "duel": "Formal duel: ritual, tension before the first move, and a slow build to a few decisive exchanges.",
+    "military": "Military combat: tactical, disciplined, chaotic noise, fear held down by training.",
+    "assassin": "Assassin's kill: silent, efficient, planned to the second, with cold focus and near-clinical detail.",
+    "grappling": "Grappling: close-quarters holds, leverage, choking, and exhausting struggle for position."
+  },
+  "romanceStyles": {
+    "slow-burn": "Slow burn: restraint, lingering glances, near-touches, and tension stretched until it snaps.",
+    "enemies-to-lovers": "Enemies to lovers: sparring dialogue, grudging respect, and animosity turning to heat.",
+    "forbidden": "Forbidden: secrecy and risk, stolen moments, and the thrill and guilt of crossing a line.",
+    "tender": "Tender: gentle, emotionally intimate, focused on trust, vulnerability, and being fully seen.",
+    "passionate": "Passionate: urgent, hungry, all-consuming, with emotion running as high as desire.",
+    "reunion": "Reunion: old wounds, unfinished history, and familiarity colliding with distance."
+  },
+  "tags": {
+    "power-dynamics": "Center a clear power dynamic between the characters: who leads, who yields, and the trust that makes it work.",
+    "teasing": "Build anticipation through teasing and denial: hovering, withholding, and making the wait part of the pleasure.",
+    "praise": "Include warm, specific praise and reassurance from one partner that visibly affects the other.",
+    "sensory-play": "Lean into sensory play: contrasts of touch, temperature, texture, blindfolds, and heightened awareness.",
+    "restraint": "Include consensual restraint (silk, rope, hands pinned), with attention to trust, check-ins, and the shift in the restrained partner's headspace.",
+    "rough-passionate": "Intense and physically rough, with grabbing, pinning, and biting, while both partners are clearly willing and into it.",
+    "roleplay": "Include roleplay: the characters adopt roles or personas and play them with commitment.",
+    "possessive": "Include possessiveness and claiming language, framed as mutual and wanted.",
+  }
+}

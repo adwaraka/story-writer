@@ -1,0 +1,14 @@
+services:
+  scene-editor:
+    build: .
+    # Named image so `docker run scene-editor` can reuse what compose built
+    image: scene-editor
+    # All settings come from .env
+    env_file:
+      - .env
+    volumes:
+      - ./data:/data
+      - ./styles.json:/app/styles.json:ro
+    extra_hosts:
+      # Makes host.docker.internal work on Linux too (built in on Docker Desktop)
+      - "host.docker.internal:host-gateway"
