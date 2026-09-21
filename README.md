@@ -50,6 +50,14 @@ docker run --rm --env-file .env -e TAGS="teasing, praise" \
   -v "$(pwd)/data:/data" -v "$(pwd)/styles.json:/app/styles.json:ro" scene-editor
 ```
 
+## Modes
+
+- `MODE=rewrite` (default): finds the scene between `START_ANCHOR` and `END_ANCHOR` in your
+  manuscript, critiques it, and writes an improved version.
+- `MODE=write`: writes a brand-new scene that opens with `START_ANCHOR` and closes with
+  `END_ANCHOR`. The story before the start sentence is shown to the model as context
+  (`CONTEXT_WORDS` controls how much). The anchors don't need to exist in the manuscript.
+
 ## Adding styles
 
 Edit `styles.json` (genres, fightStyles, romanceStyles, tags), or type free text straight
